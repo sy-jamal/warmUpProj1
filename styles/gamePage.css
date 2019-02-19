@@ -1,0 +1,44 @@
+body
+{
+	background-color:  #b7ff00;
+}
+.outter div
+{
+	text-align : center;
+	margin-top : 0%;
+	margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    height: 480px;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+	background-color: #001a00;
+}
+table
+{
+    text-align : center ;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4%;
+    font-size: 3.5em;
+    color:#b7ff00;
+    cursor: pointer;
+}
+td, th {
+    border: 1px solid white;
+    padding: 0.5rem;
+    height: 120px;;
+    width: 2%;
+  }
+  h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    color:black;
+    text-align : center ;
+  }
